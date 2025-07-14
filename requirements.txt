@@ -1,4 +1,6 @@
-langchain
+langchain~=0.3.26
 langchain-openai
-langchain-google-genai
-streamlit
+langchain-google-genai~=2.1.7
+streamlit~=1.46.1
+
+langchain-core~=0.3.68
